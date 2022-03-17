@@ -2,6 +2,8 @@
 
 ### Case Demand Forecast.
 
+* Data Base sent by excel.
+
 Using the data tab as a database, answer the following questions:
 1-Rank the total number of PAX by day of the week.
 2-What is the correlation of Saturday and Sunday added to the total RPK?
@@ -12,6 +14,9 @@ Using the data tab as a database, answer the following questions:
  
 ### Case Anac Exploratory Data Analysis.
 
+* Data Base Of ANAC used is January 2022 combined from: https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/envio-de-informacoes/microdados/microdados
+
 Using public data from ANAC conduct an exploratory analysis with the technique and tools of your choice.
 
-https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/envio-de-informacoes/microdados/microdados
+
+
